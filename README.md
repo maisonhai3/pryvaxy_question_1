@@ -1,4 +1,4 @@
-1. Largest Connected Cluster of 1s in a Binary Grid
+# Largest Connected Cluster of 1s in a Binary Grid
 Problem:
 Given a matrix (2D grid) of 0s and 1s, implement an algorithm to determine the size of the largest connected cluster of 1s.
 Additional Requirement:

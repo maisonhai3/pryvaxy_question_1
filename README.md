@@ -34,6 +34,7 @@ Regardless of BFS or DFS, they both work, as we only need to count the number of
 
 
 Sketch algorithm:
+```
 Firstly,
     Modeling the input array of numbers to an array of cells
 
@@ -46,4 +47,4 @@ Secondly,
             After traversing, compare with the maximum
 
     Return the maximum cluster size.
-     
+```
